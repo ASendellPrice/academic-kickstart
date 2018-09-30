@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Speciation Genomics",
+    "Population Genomics",
+    "Landscape Genetics"
+    "Bioinformatics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "DPhil in Zoology"
+  institution = "University of Oxford"
+  year = On going
+
+[[education.courses]]
+  course = "PG Cert in Ecological Survey Techniques"
+  institution = "University of Oxford"
+  year = 2015
+
+[[education.courses]]
+  course = "PG Cert in International Animal Welfare, Ethics & Law"
+  institution = "University of Edinburgh"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Animal Behaviour (First class honours)"
+  institution = "Aberystwyth University"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a NERC-funded PhD student at the University of Oxford's Department of Zoology. My research interests are broadly centred around understanding how organisms adapt to environmental change, with a particular interest in the genomic-level changes that take place following the establishment of new populations. I am particularly interested in the effects of population founding. Other interests include: landscape genetics, conservation genetics, and bioinformatics. 
